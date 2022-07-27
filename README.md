@@ -8,6 +8,11 @@ It is a simple quiz app for begineers who are learning web development. they can
 
 .JAVASCRIPT
 
+Video Demo:
+
+
+https://user-images.githubusercontent.com/91134169/181349938-72ad4350-efc0-4d48-9be9-90f7c926064c.mp4
+
 
 
 Demo:
